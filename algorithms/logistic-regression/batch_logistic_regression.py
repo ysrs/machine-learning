@@ -3,7 +3,7 @@
 # @Time    : 2019/7/9 7:57
 # @Author  : ysrs
 # @Site    : https://www.zhihu.com/people/ysrs
-# @File    : lr_gd.py
+# @File    : batch_logistic_regression.py
 # @Software: PyCharm
 
 import numpy as np
